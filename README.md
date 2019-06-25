@@ -1,9 +1,11 @@
 # Teleindicadores1
-Font which based on some destination sings of some Spanish trains (440, 447…)
+Font which based on some destination sings of some Spanish trains (440, 447…)  
+5x7 dot matrix  
+Included Latin, Greek and Cyrillic
 
 ## Credits
-I am not the original creator of the font, simply corrected Cyrillic
-Original creator - 440EMU (how to contact him I do not know)
+I am not the original creator of the font, simply corrected Cyrillic  
+Original creator - 440EMU (how to contact him I do not know)  
 Original work - https://fontlibrary.org/en/font/teleindicadores-1
 
 ## Usage
