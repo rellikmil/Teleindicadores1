@@ -3,7 +3,7 @@ v0.1
 
 v0.2
  - More characters added.
- - Added character ALT+178 which draws a 6×7 dots. It's useful to create a background of dots.
+ - Added character ALT+178 which draws a 6Ã—7 dots. It's useful to create a background of dots.
 
 v0.3
  - Added Greek letters.
@@ -19,4 +19,4 @@ v0.6
  - Added some Cyrillic letters.
 
 v0.9
- - Improved all Cyrillic letters (den32ds)
+ - Improved some Cyrillic letters (den32ds)
