@@ -3,9 +3,9 @@ FontName: Teleindicadores1
 FullName: Teleindicadores 1
 FamilyName: Teleindicadores 1
 Weight: Regular
-Copyright: Public domain. If You modify this font, please, keep the posistion of the dots matrix. Si modificas esta fuente, por favor, manten la posicion de la matriz de puntos.
+Copyright: Public domain. If you modify this font, please, keep the posistion of the dots matrix. Si modificas esta fuente, por favor, manten la posicion de la matriz de puntos.
 UComments: "Based on destination indicators used on some Spanish trains like 440, 446, 447 or 450 EMUs."
-Version: 0.6
+Version: 0.95
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1362940323
-ModificationTime: 1561417528
+ModificationTime: 1562709219
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -15288,6 +15288,7 @@ SplineSet
  150 23.4404 136.56 10 120 10 c 0
  103.44 10 90 23.4404 90 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: period
@@ -28989,31 +28990,41 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-250 520 m 0
- 250 536.56 263.44 550 280 550 c 0
- 296.56 550 310 536.56 310 520 c 0
- 310 503.44 296.56 490 280 490 c 0
- 263.44 490 250 503.44 250 520 c 0
+330 520 m 0
+ 330 536.56 343.44 550 360 550 c 0
+ 376.56 550 390 536.56 390 520 c 0
+ 390 503.44 376.56 490 360 490 c 0
+ 343.44 490 330 503.44 330 520 c 0
 170 520 m 0
  170 536.56 183.44 550 200 550 c 0
  216.56 550 230 536.56 230 520 c 0
  230 503.44 216.56 490 200 490 c 0
  183.44 490 170 503.44 170 520 c 0
-90 520 m 0
- 90 536.56 103.44 550 120 550 c 0
- 136.56 550 150 536.56 150 520 c 0
- 150 503.44 136.56 490 120 490 c 0
- 103.44 490 90 503.44 90 520 c 0
+10 520 m 0
+ 10 536.56 23.4404 550 40 550 c 0
+ 56.5596 550 70 536.56 70 520 c 0
+ 70 503.44 56.5596 490 40 490 c 0
+ 23.4404 490 10 503.44 10 520 c 0
+330 440 m 0
+ 330 456.56 343.44 470 360 470 c 0
+ 376.56 470 390 456.56 390 440 c 0
+ 390 423.44 376.56 410 360 410 c 0
+ 343.44 410 330 423.44 330 440 c 0
+10 440 m 0
+ 10 456.56 23.4404 470 40 470 c 0
+ 56.5596 470 70 456.56 70 440 c 0
+ 70 423.44 56.5596 410 40 410 c 0
+ 23.4404 410 10 423.44 10 440 c 0
 330 280 m 0
  330 296.56 343.44 310 360 310 c 0
  376.56 310 390 296.56 390 280 c 0
  390 263.44 376.56 250 360 250 c 0
  343.44 250 330 263.44 330 280 c 0
-90 120 m 0
- 90 136.56 103.44 150 120 150 c 0
- 136.56 150 150 136.56 150 120 c 0
- 150 103.44 136.56 90 120 90 c 0
- 103.44 90 90 103.44 90 120 c 0
+170 280 m 0
+ 170 296.56 183.44 310 200 310 c 0
+ 216.56 310 230 296.56 230 280 c 0
+ 230 263.44 216.56 250 200 250 c 0
+ 183.44 250 170 263.44 170 280 c 0
 10 280 m 0
  10 296.56 23.4404 310 40 310 c 0
  56.5596 310 70 296.56 70 280 c 0
@@ -29024,6 +29035,11 @@ SplineSet
  376.56 390 390 376.56 390 360 c 0
  390 343.44 376.56 330 360 330 c 0
  343.44 330 330 343.44 330 360 c 0
+250 360 m 0
+ 250 376.56 263.44 390 280 390 c 0
+ 296.56 390 310 376.56 310 360 c 0
+ 310 343.44 296.56 330 280 330 c 0
+ 263.44 330 250 343.44 250 360 c 0
 10 360 m 0
  10 376.56 23.4404 390 40 390 c 0
  56.5596 390 70 376.56 70 360 c 0
@@ -29034,11 +29050,11 @@ SplineSet
  376.56 230 390 216.56 390 200 c 0
  390 183.44 376.56 170 360 170 c 0
  343.44 170 330 183.44 330 200 c 0
-170 200 m 0
- 170 216.56 183.44 230 200 230 c 0
- 216.56 230 230 216.56 230 200 c 0
- 230 183.44 216.56 170 200 170 c 0
- 183.44 170 170 183.44 170 200 c 0
+90 200 m 0
+ 90 216.56 103.44 230 120 230 c 0
+ 136.56 230 150 216.56 150 200 c 0
+ 150 183.44 136.56 170 120 170 c 0
+ 103.44 170 90 183.44 90 200 c 0
 10 200 m 0
  10 216.56 23.4404 230 40 230 c 0
  56.5596 230 70 216.56 70 200 c 0
@@ -29049,11 +29065,6 @@ SplineSet
  376.56 150 390 136.56 390 120 c 0
  390 103.44 376.56 90 360 90 c 0
  343.44 90 330 103.44 330 120 c 0
-250 280 m 0
- 250 296.56 263.44 310 280 310 c 0
- 296.56 310 310 296.56 310 280 c 0
- 310 263.44 296.56 250 280 250 c 0
- 263.44 250 250 263.44 250 280 c 0
 10 120 m 0
  10 136.56 23.4404 150 40 150 c 0
  56.5596 150 70 136.56 70 120 c 0
@@ -29070,7 +29081,7 @@ SplineSet
  70 23.4404 56.5596 10 40 10 c 0
  23.4404 10 10 23.4404 10 40 c 0
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: NameMe.411
@@ -29151,6 +29162,7 @@ SplineSet
  70 23.4404 56.5596 10 40 10 c 0
  23.4404 10 10 23.4404 10 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.412
@@ -30212,6 +30224,7 @@ SplineSet
  390 23.4404 376.56 10 360 10 c 0
  343.44 10 330 23.4404 330 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.424
@@ -30529,6 +30542,7 @@ SplineSet
  390 23.4404 376.56 10 360 10 c 0
  343.44 10 330 23.4404 330 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.427
@@ -31362,6 +31376,7 @@ SplineSet
  70 23.4404 56.5596 10 40 10 c 0
  23.4404 10 10 23.4404 10 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.436
@@ -31417,6 +31432,7 @@ SplineSet
  70 23.4404 56.5596 10 40 10 c 0
  23.4404 10 10 23.4404 10 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.437
@@ -32029,6 +32045,7 @@ SplineSet
  70 23.4404 56.5596 10 40 10 c 0
  23.4404 10 10 23.4404 10 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.445
@@ -32789,6 +32806,7 @@ SplineSet
  390 23.4404 376.56 10 360 10 c 0
  343.44 10 330 23.4404 330 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.456
@@ -32849,6 +32867,7 @@ SplineSet
  390 23.4404 376.56 10 360 10 c 0
  343.44 10 330 23.4404 330 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.457
@@ -33030,6 +33049,7 @@ SplineSet
  390 23.4404 376.56 10 360 10 c 0
  343.44 10 330 23.4404 330 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.459
@@ -33323,6 +33343,7 @@ SplineSet
  70 23.4404 56.5596 10 40 10 c 0
  23.4404 10 10 23.4404 10 40 c 0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: NameMe.463
